@@ -1,0 +1,7 @@
+topics:
+  - topic: /my_camera/image
+    type: sensor_msgs/msg/Image
+    ign_type: ignition.msgs.Image
+  - topic: /my_camera/camera_info
+    type: sensor_msgs/msg/CameraInfo
+    ign_type: ignition.msgs.CameraInfo
